@@ -9,7 +9,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ####  1/°Create 2 components : Header and MemeGenerator
           Roles : Header = display only; MemeGenerator = calls to an api for data
 
+  ####  2/°Initialize state to save following data:
+          - Top text
+          - Bottom text
+          - Random image (initialized with "http://i.imgflip.com/1bij.jpg")
 
+  ####  3/°Make an API call to "http://i.imgflip.com/get_memes"
+         then, save the data coming back (`response.data.memes`) to a new state property called `allMemeImgs` (the data is an array)
 
 
 
