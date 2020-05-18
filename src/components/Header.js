@@ -1,13 +1,14 @@
 import React from 'react'
-// import '../style/header.css'
+import '../style/header.css'
 
 
 class Header extends React.Component {
   render() {
     return(
-      <div>
-        <h1 className='title'> A REACT Meme Generator </h1>
-      </div>
+      <header>
+        <img src="/Trollface.png" alt="Trollface.png" />
+        <p>Meme Generator</p>
+      </header>
     )
   }
 }
