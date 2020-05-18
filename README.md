@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+## Create a meme generator using react
+
+### Readme is used to report milestones of the project.
+
+  ####  1/°Create 2 components : Header and MemeGenerator
+          Roles : Header = display only; MemeGenerator = calls to an api for data
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
