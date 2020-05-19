@@ -14,8 +14,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
           - Bottom text
           - Random image (initialized with "http://i.imgflip.com/1bij.jpg")
 
-  ####  3/°Make an API call to "http://i.imgflip.com/get_memes"
+  ####  3/°Make an API call to "https://api.imgflip.com/get_memes"
          then, save the data coming back (`response.data.memes`) to a new state property called `allMemeImgs` (the data is an array)
+
+  ####  4/°Create a form
+          - One 'generate' button
+          - Two input fields (topText & bottomText) these are 'controlled forms'
+
+  ####  5/°Create the onChange handler method
+          Updates the corresponding state on every keystroke
+
+  ####  6/°Build top and bottom areas
+					To dislay memes and picture
 
 
 
