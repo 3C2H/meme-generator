@@ -27,7 +27,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ####  6/°Build top and bottom areas
 					To dislay memes and picture
 
-
+  ####	7/°create a method to choose and display one random image from the allMemeImgs array
 
 
 
